@@ -6,6 +6,8 @@
 
 ![Elias Github stats](https://github-readme-stats.vercel.app/api?username=elias-12alex&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-12alex&layout=compact)](https://github.com/elias-12alex/uploadEliasAlex)
+
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
