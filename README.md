@@ -21,4 +21,11 @@ I'm brazilian. Aspiring Computer Engineer. Enthusiast of life and lover of good 
         <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
         <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </div>
+
+### Technologies I'm currently learning
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</div>
+
 <br/>
