@@ -1,6 +1,6 @@
 ### Hello! I'm Elias Alexander ✌️
 
-I'm brazilian. Aspiring Computer Engineer. Enthusiast of life and lover of good coffee
+I'm brazilian. I'm aspiring Computer Engineer, i'm enthusiast of life and so am i lover of good coffee
  💻💙🍵
 
 [![(Instagram)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eliasalex_/)
@@ -25,7 +25,7 @@ I'm brazilian. Aspiring Computer Engineer. Enthusiast of life and lover of good 
 ### Technologies I'm currently learning
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+    <img align="center" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40">
 </div>
 
 <br/>
