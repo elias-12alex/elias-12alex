@@ -8,12 +8,11 @@ I'm brazilian. I'm aspiring Computer Engineer, i'm enthusiast of life and so am 
 [![(Gmail)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm#inbox)
 
 ![Elias Github stats](https://github-readme-stats.vercel.app/api?username=elias-12alex&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-12alex&layout=compact)](https://github.com/elias-12alex/uploadEliasAlex)
 
 ### Technologies I use in my day
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
      <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
       <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -24,7 +23,7 @@ I'm brazilian. I'm aspiring Computer Engineer, i'm enthusiast of life and so am 
 
 ### Technologies I'm currently learning
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img align="center" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40">
 </div>
 
