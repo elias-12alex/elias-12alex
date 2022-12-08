@@ -25,7 +25,7 @@ I'm brazilian. Aspiring Computer Engineer. Enthusiast of life and lover of good 
 ### Technologies I'm currently learning
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 </div>
 
 <br/>
