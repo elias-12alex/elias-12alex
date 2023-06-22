@@ -21,7 +21,7 @@ I'm brazilian. I'm aspiring Computer Engineer, i'm enthusiast of life and so am 
        <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
        <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
        <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-       <img align="center" alt="html5" src="https://img.shields.io/badge/https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fc_6132222%3Fterm%3Dc%26page%3D1%26position%3D2%26origin%3Dsearch%26related_id%3D6132222">
+       <img align="center" alt="html5" src="https://www.flaticon.com/free-icon/c_6132222?term=c&page=1&position=2&origin=search&related_id=6132222">
 
 </div>
 
