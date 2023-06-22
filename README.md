@@ -10,7 +10,7 @@ I'm brazilian. I'm aspiring Computer Engineer, i'm enthusiast of life and so am 
 
 ![Elias Github stats](https://github-readme-stats.vercel.app/api?username=elias-12alex&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-12alex&layout=compact)](https://github.com/elias-12alex/uploadEliasAlex)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-12alex&layout=compact)](https://github.com/elias-12alex)
 
 ### Technologies I use in my day
 
