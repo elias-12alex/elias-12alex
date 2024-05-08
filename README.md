@@ -1,4 +1,4 @@
-### Hello! I'm Elias Alexander ✌️
+### Hello! I'm Elias Alexander!
 
 I'm brazilian. I'm aspiring Computer Engineer, i'm enthusiast of life and so am i lover of good coffee
  💻💙🍵
